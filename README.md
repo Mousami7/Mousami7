@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Mousami7/Mousami-Soni/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mousami Soni</h1>
 <h3 align="center">Data Science Enthusiast: Leveraging Technology Innovatively</h3>
 
