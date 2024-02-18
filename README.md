@@ -1,7 +1,6 @@
 ![logo](https://github.com/Mousami7/Mousami-Soni/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mousami Soni</h1>
 <h3 align="center">Data Science Enthusiast: Leveraging Technology Innovatively</h3>
-
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mousami7&label=Profile%20views&color=0e75b6&style=flat" alt="mousami7" /> </p>
