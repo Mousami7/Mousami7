@@ -6,16 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mousami7&label=Profile%20views&color=0e75b6&style=flat" alt="mousami7" /> </p>
 
-- 🔭 I’m currently working on **The Comparison of The Performance of Open-Source LLMs In the 
-Prediction of Price Movements of Cryptocurrencies and Stocks**
+- 🔭 I’m currently working on **Audio Abuse Detection & Speaker Diarization (Xounds)**
 
-- 🌱 I’m currently pursuing **Masters in Computer Science in (IUBH)**
+- 🌱 I have completed my **Masters in Computer Science from (IUBH)**
 
 - 💬 Ask me about **Python, NumPy, Pandas, SQL, Tableau, Power-BI, Machine learning**
 
 - 📫 How to reach me **sonimousami3@gmail.com**
-
-- 📄 Know about my experiences [https://www.yessinfotech.com/](https://www.yessinfotech.com/)
 
 - ⚡ Fun fact **"Mousami Soni" is that name "Mousami" means "According to season".**
 
