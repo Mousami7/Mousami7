@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mousami7&label=Profile%20views&color=0e75b6&style=flat" alt="mousami7" /> </p>
 - 🔭 "Certified Apache Airflow Professional" expert in developing and managing DAGs for single node and multinode architectures with LocalExecutor and Kubernetes Executor 
 
-- 🔭 I’m currently working on **Audio Abuse Detection & Speaker Diarization (Xounds)**
+- 🔭 I built Audio AI pipeline with **Speaker Verification,Speaker Diarization, Transcription & Content Moderation models (Xounds)**
 
-- 🌱 I have completed my **Masters in Computer Science from (IUBH)**
+- 🌱 I have completed my **Masters in Computer Science from Berlin**
 
 - 💬 Ask me about **Python, NumPy, Pandas, SQL, Tableau, Power-BI, Machine learning**
 
